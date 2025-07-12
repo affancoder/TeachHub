@@ -1,5 +1,7 @@
 # TeachHub
 
+https://github.com/user-attachments/assets/8e4ab295-ed34-4280-8f75-ce388b6a3dde
+
 This project is a modern, responsive teacher management interface built with Next.js, TypeScript, and Tailwind CSS.
 
 ## How This Project Is Built
