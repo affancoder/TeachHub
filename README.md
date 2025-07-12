@@ -2,10 +2,6 @@
 
 This project is a modern, responsive teacher management interface built with Next.js, TypeScript, and Tailwind CSS.
 
-# Video Presentation
-
-https://github.com/user-attachments/assets/22d6e88a-f1d4-4bdd-9f8d-de9bb10c02c1
-
 ## How This Project Is Built
 
 - **Framework & Stack**
@@ -86,3 +82,6 @@ https://github.com/user-attachments/assets/22d6e88a-f1d4-4bdd-9f8d-de9bb10c02c1
 
 ## Accessibility
 This project follows WCAG guidelines for accessibility.
+
+## License
+MIT
