@@ -84,6 +84,3 @@ This project is a modern, responsive teacher management interface built with Nex
 
 ## Accessibility
 This project follows WCAG guidelines for accessibility.
-
-## License
-MIT
